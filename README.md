@@ -429,6 +429,14 @@ These are ideas, not commitments. See the issue tracker for what is being worked
 
 Contributions are welcome. Start with [CONTRIBUTING.md](CONTRIBUTING.md), and look for issues labelled `good first issue`. Please follow the [Code of Conduct](CODE_OF_CONDUCT.md). To report security issues, see [SECURITY.md](SECURITY.md).
 
+### One issue at a time
+
+To give everyone a chance, especially people making their first contribution:
+
+- Work on **one issue at a time**. Claim the next one after your pull request is merged.
+- Issues labelled `good first issue` are for **first-time contributors**. After your first merged pull request, please leave them for newcomers and pick `help wanted` or other issues instead.
+- Pull requests for issues that weren't assigned to you, or beyond the one-at-a-time limit, may be closed so others can take the issue.
+
 If ModelDiff is useful to you, a star on the repository helps other people find it. For project news, follow [OpenWave India on LinkedIn](https://www.linkedin.com/company/openwave-india).
 
 ### Contributors
